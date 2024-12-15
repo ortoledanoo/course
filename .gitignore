@@ -1,0 +1,29 @@
+# Ignore All Files By Default
+*
+
+# Allow All Directories
+!*/
+
+# Track Specific Files and Extensions
+!.gitignore
+!*.sh
+!*.c
+!*.h
+!*.py
+!*.html
+!*.css
+!*.md
+!*.drawio
+!*.service
+!*.Dockerfile
+!Dockerfile
+!*.conf
+!*.yml
+!*.yaml
+!*.Jenkinsfile
+!Jenkinsfile
+!*.java
+!*.xml
+.idea
+# Ignore Specific Directories
+Python/Weather_WebApp_Project/.virtual/
